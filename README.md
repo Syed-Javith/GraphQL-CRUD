@@ -1,1 +1,10 @@
-### NBuild Awesome CRUD APIs Using Apollo Server(Graphql), MongoDB and Node.Js Code Example
+### GrapQL CRUD using Apollo
+
+install and run
+
+```
+npm i
+```
+```
+nodemon index.js
+```
